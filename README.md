@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S-O-H-A-M
-- 👀 I’m interested in embedded software development,circuit simulation and vlsi.
+- 👀 I’m interested in digital design and verification.I am actively looking for internships.
 - 💞️ I’m looking to collaborate on circuit simulation and vlsi projects.
 - 📫 How to reach me 
 linkedin- https://www.linkedin.com/in/soham-s-a75a40103/ 
